@@ -20,7 +20,7 @@
     - Beauty 카테고리는 Women과 달리 군집간 밀도 차이가 극단적으로 크지 않음(제품기능이 카테고리별로 동일하고, 색상,브랜드,라인차이)
     - 따라서 Silhouette score를 기준으로 가장 분리도가 높은 K값을 선택하여 K-means cluster 사용
 
-### 분석 결과
+### 분석 결과 (Word cloud)
 - Women
   - 어쩌구
 - Beauty
