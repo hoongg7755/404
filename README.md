@@ -1,4 +1,4 @@
-## Mercari's Women & Beauty 카테고리를 대상 여성중고거래시장 구조 분석
+## Mercari's Women & Beauty 카테고리 대상 여성중고거래시장 구조 분석
 
 ### 문제 정의
 - 마켓플레이스 상품 데이터를 봤을 때, Women + Beauty 카테고리가 전체의 절반 이상 차지.
